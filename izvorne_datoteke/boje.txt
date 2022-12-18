@@ -1,0 +1,5 @@
+#e3dfd1 - najsvijetlija smeđa
+#bfab97 - smeđa
+#87684c - najtamnija smeđa
+#93B080 - zelena
+#D68B6F - crvena
